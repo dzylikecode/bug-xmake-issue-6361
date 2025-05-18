@@ -2,7 +2,7 @@
 
 ## 环境信息
 
-- **硬件平台**: Jetson Orin Nano
+- **硬件平台**: Jetson Orin Super
 - **操作系统**: Ubuntu 22.04
 - **xmake版本**: v2.9.9
 
